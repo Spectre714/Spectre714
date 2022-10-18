@@ -7,4 +7,6 @@
   Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78124&center=true&vCenter=true&width=435&lines=GitHub+Profile+Trophy" alt="Typing SVG" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Spectre714&theme=dark_lover" alt=""/>
 </div>
